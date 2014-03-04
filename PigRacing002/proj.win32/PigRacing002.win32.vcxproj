@@ -167,6 +167,7 @@
     <Text Include="..\Classes\Role\readme.txt" />
     <Text Include="..\Classes\UI\readme.txt" />
     <Text Include="..\Classes\Util\readme.txt" />
+    <Text Include="..\Resources\buttons\新建文本文档.txt" />
     <Text Include="..\Resources\maps\Text.txt" />
     <Text Include="..\Resources\pigs\readme.txt" />
     <Text Include="..\开发日志.txt" />
